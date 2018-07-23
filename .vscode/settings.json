@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "iostream": "c",
+        "stdlib.h": "c",
+        "system_error": "c",
+        "xiosbase": "c",
+        "xlocale": "c",
+        "utility": "c"
+    },
+    "editor.rulers": [
+        72
+    ],
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+}
