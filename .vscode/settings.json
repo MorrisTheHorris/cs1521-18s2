@@ -12,5 +12,8 @@
         72
     ],
     "editor.formatOnPaste": true,
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "files.exclude": {
+        "**/*.o": true
+    }
 }
