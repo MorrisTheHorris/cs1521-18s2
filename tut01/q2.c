@@ -17,3 +17,9 @@ int main(void) {
 
 // If we assume that the variable n has address 0x7654, then what values
 // will the program print?
+
+/* ANSWER:
+1235
+0x7654
+0x7658
+*/

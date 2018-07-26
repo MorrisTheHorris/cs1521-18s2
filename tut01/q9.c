@@ -16,3 +16,9 @@ int main(void) {
     printf("%s\n", str);
     return 0;
 }
+
+/* ANSWER:
+-E Preprocess only; do not compile, assemble or link
+-S Compile only; do not assemble or link
+-c Compile and assemble, but do not link
+*/
