@@ -18,3 +18,5 @@ Word reverseBits(Word w);
 // 1110 0110 1010 0010 1100 0100 1000 0000
 
 // which is 0xE6A2C480 in hexadecimal.
+
+// not done in tute!
