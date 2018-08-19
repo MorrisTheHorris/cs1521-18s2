@@ -4,7 +4,7 @@ string:
     .asciiz  "...." 
 # ...
     .text
-    
+
     la   $t0, string     # s = &string[0];
     li   $t1, 0
 while:
@@ -15,4 +15,5 @@ while:
     addi $t0, $t0, 1     # s++
     j    while           # goto while
 
+end_loop:
 #   $t1 contains the length of the string
